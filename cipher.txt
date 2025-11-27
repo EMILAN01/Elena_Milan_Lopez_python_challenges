@@ -1,0 +1,12 @@
+Original: abc
+Shift: 3
+Encoded: def
+------------------------------
+Original: xyz
+Shift: 2
+Encoded: zab
+------------------------------
+Original: Hello, World!
+Shift: 5
+Encoded: Mjqqt, Btwqi!
+------------------------------

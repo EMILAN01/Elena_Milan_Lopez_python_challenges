@@ -1,0 +1,22 @@
+Primes up to 2:
+2
+
+Primes up to 11:
+2
+3
+5
+7
+11
+
+Primes up to 15:
+2
+3
+5
+7
+11
+13
+
+Primes up to 1:
+
+Primes up to 0:
+
